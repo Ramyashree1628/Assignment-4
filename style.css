@@ -1,0 +1,28 @@
+section{
+  background-image: url(https://th.bing.com/th/id/R26a5004af939d96239d50d740777cb10?rik=g8CGOVm8O7x%2bWQ&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f5%2f8%2fc%2f1490612-engineering-desktop-wallpaper-1920x1080-samsung-galaxy.jpg&ehk=EuLCKaQbqWXHxO%2fLnZS%2bzNVAQAzLIVmHPMgkT%2bLeRAE%3d&risl=&pid=ImgRaw);
+  background-repeat:no-repeat;
+  color: white;
+}
+h1{
+  text-align: center;
+  padding:20px;
+  border:2px solid white;
+  }
+h3{
+   text-decoration: underline;     
+    text-decoration-color: white;  
+}
+figure {
+  border: 2px powderblue solid;
+  padding: 4px;
+  margin: auto;
+  text-align: center;
+}
+
+figcaption {
+  background-color: white;
+  color: black;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
